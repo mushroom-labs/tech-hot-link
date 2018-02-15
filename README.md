@@ -6,3 +6,4 @@
 * [Размеры в SVG](http://css.yoksel.ru/svg-sizes/)
 
 * [Большая статья про гриды](http://css-live.ru/css/bolshaya-statya-pro-gridy-css-grid-layout.html)
+* [CSS Grid, подробное руководство по гридам с примерами](https://abraxabra.ru/blog/css/css-grid-a-detailed-guide-with-examples-gridam/)
