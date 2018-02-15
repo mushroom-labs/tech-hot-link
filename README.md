@@ -4,3 +4,5 @@
 * [Визуальное руководство по Flexbox](http://css-live.ru/articles/vizualnoe-rukovodstvo-po-svojstvam-flexbox-iz-css3.html)
 
 * [Размеры в SVG](http://css.yoksel.ru/svg-sizes/)
+
+* [Большая статья про гриды](http://css-live.ru/css/bolshaya-statya-pro-gridy-css-grid-layout.html)
